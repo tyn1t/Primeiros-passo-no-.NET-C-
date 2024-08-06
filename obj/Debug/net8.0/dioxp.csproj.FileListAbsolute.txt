@@ -1,0 +1,14 @@
+C:\Users\ander\Desktop\texte\dioxp\bin\Debug\net8.0\dioxp.exe
+C:\Users\ander\Desktop\texte\dioxp\bin\Debug\net8.0\dioxp.deps.json
+C:\Users\ander\Desktop\texte\dioxp\bin\Debug\net8.0\dioxp.runtimeconfig.json
+C:\Users\ander\Desktop\texte\dioxp\bin\Debug\net8.0\dioxp.dll
+C:\Users\ander\Desktop\texte\dioxp\bin\Debug\net8.0\dioxp.pdb
+C:\Users\ander\Desktop\texte\dioxp\obj\Debug\net8.0\dioxp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\texte\dioxp\obj\Debug\net8.0\dioxp.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\texte\dioxp\obj\Debug\net8.0\dioxp.AssemblyInfo.cs
+C:\Users\ander\Desktop\texte\dioxp\obj\Debug\net8.0\dioxp.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\texte\dioxp\obj\Debug\net8.0\dioxp.dll
+C:\Users\ander\Desktop\texte\dioxp\obj\Debug\net8.0\refint\dioxp.dll
+C:\Users\ander\Desktop\texte\dioxp\obj\Debug\net8.0\dioxp.pdb
+C:\Users\ander\Desktop\texte\dioxp\obj\Debug\net8.0\dioxp.genruntimeconfig.cache
+C:\Users\ander\Desktop\texte\dioxp\obj\Debug\net8.0\ref\dioxp.dll
